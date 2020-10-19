@@ -1,0 +1,16 @@
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.exe
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.deps.json
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.runtimeconfig.json
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.runtimeconfig.dev.json
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.dll
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.pdb
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBank.Modelos.dll
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\bin\Debug\netcoreapp3.1\ByteBank.Modelos.pdb
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.csprojAssemblyReference.cache
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.AssemblyInfoInputs.cache
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.AssemblyInfo.cs
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.csproj.CoreCompileInputs.cache
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.csproj.CopyComplete
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.dll
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.pdb
+D:\Alura\C#\Bibliotecas DLLs, documentação e usando o NuGet\ByteBanks.SistemaAgencia\obj\Debug\netcoreapp3.1\ByteBanks.SistemaAgencia.genruntimeconfig.cache
