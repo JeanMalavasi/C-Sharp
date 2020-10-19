@@ -1,0 +1,13 @@
+D:\Alura\C#\ControleDeFluxo\bin\Debug\netcoreapp3.1\ControleDeFluxo.exe
+D:\Alura\C#\ControleDeFluxo\bin\Debug\netcoreapp3.1\ControleDeFluxo.deps.json
+D:\Alura\C#\ControleDeFluxo\bin\Debug\netcoreapp3.1\ControleDeFluxo.runtimeconfig.json
+D:\Alura\C#\ControleDeFluxo\bin\Debug\netcoreapp3.1\ControleDeFluxo.runtimeconfig.dev.json
+D:\Alura\C#\ControleDeFluxo\bin\Debug\netcoreapp3.1\ControleDeFluxo.dll
+D:\Alura\C#\ControleDeFluxo\bin\Debug\netcoreapp3.1\ControleDeFluxo.pdb
+D:\Alura\C#\ControleDeFluxo\obj\Debug\netcoreapp3.1\ControleDeFluxo.csprojAssemblyReference.cache
+D:\Alura\C#\ControleDeFluxo\obj\Debug\netcoreapp3.1\ControleDeFluxo.AssemblyInfoInputs.cache
+D:\Alura\C#\ControleDeFluxo\obj\Debug\netcoreapp3.1\ControleDeFluxo.AssemblyInfo.cs
+D:\Alura\C#\ControleDeFluxo\obj\Debug\netcoreapp3.1\ControleDeFluxo.csproj.CoreCompileInputs.cache
+D:\Alura\C#\ControleDeFluxo\obj\Debug\netcoreapp3.1\ControleDeFluxo.dll
+D:\Alura\C#\ControleDeFluxo\obj\Debug\netcoreapp3.1\ControleDeFluxo.pdb
+D:\Alura\C#\ControleDeFluxo\obj\Debug\netcoreapp3.1\ControleDeFluxo.genruntimeconfig.cache

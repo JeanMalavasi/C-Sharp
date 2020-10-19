@@ -1,0 +1,10 @@
+https://medium.com/danielpadua/vscode-asp-net-core-preparar-ambiente-de-desenvolvimento-adf30cefea07
+
+1. Crie um diretório para seu projeto com a linha de comando a seguir:
+mkdir ~/projeto-teste
+
+2. Navegue até este diretório, caso você ainda não esteja nele:
+cd ~/projeto-teste
+
+3. Inicie um projeto default:
+dotnet new console

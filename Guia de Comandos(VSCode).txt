@@ -1,0 +1,3 @@
+. Adicionar uma referencia: dotnet add reference (caminho do projeto);
+. Criar uma aplicação de console: dotnet new console;
+. Criar uma bliblioteca: dotnet new classlib;
