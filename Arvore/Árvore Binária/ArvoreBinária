@@ -1,0 +1,16 @@
+Conceito:
+A árvore é obrigada a te no maximo 2 filhos.
+A árvore possui ponteiros para filhos a esquerda e direita;
+
+Árvore sem filhos:
+    RAIZ
+
+Árvore com 1 filho:
+    RAIZ
+      |
+    FILHO    -> Folha
+
+Árvore com 2 filhos:
+    RAIZ
+    /   \
+FILHO   FILHO -> Folhas

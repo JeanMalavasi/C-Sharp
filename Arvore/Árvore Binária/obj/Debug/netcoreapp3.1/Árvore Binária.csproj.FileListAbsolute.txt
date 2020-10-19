@@ -1,0 +1,13 @@
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/bin/Debug/netcoreapp3.1/Árvore Binária
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/bin/Debug/netcoreapp3.1/Árvore Binária.deps.json
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/bin/Debug/netcoreapp3.1/Árvore Binária.runtimeconfig.json
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/bin/Debug/netcoreapp3.1/Árvore Binária.runtimeconfig.dev.json
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/bin/Debug/netcoreapp3.1/Árvore Binária.dll
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/bin/Debug/netcoreapp3.1/Árvore Binária.pdb
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/obj/Debug/netcoreapp3.1/Árvore Binária.csprojAssemblyReference.cache
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/obj/Debug/netcoreapp3.1/Árvore Binária.AssemblyInfoInputs.cache
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/obj/Debug/netcoreapp3.1/Árvore Binária.AssemblyInfo.cs
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/obj/Debug/netcoreapp3.1/Árvore Binária.csproj.CoreCompileInputs.cache
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/obj/Debug/netcoreapp3.1/Árvore Binária.dll
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/obj/Debug/netcoreapp3.1/Árvore Binária.pdb
+/media/jean/Programação/4ºperíodo/EstruturaDeDados1/Estruturas/Arvore/Árvore Binária/obj/Debug/netcoreapp3.1/Árvore Binária.genruntimeconfig.cache

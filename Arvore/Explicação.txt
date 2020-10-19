@@ -1,0 +1,21 @@
+.Conceito:
+
+    O nó da árvore, pode apontar para multiplos nós;
+    R: RAIZ
+    F: FILHOS
+    FF:FILHOS DOS FILHOS
+      RAIZ      
+       /|\
+      F F F   -> Nó intermediario/Sub-Arvore: Apartir dele, surge outros nós;
+     /  |   \
+   FF   FF   FF -> Folhas: Fim dos ramos, ultimo nó;
+    
+    O nó possui referencia apenas para os filhos;
+    O nó não enxerga as sub-arvores derivadas de seus filhos;
+    Uma arvore ou sub-arvore, deve possuir apenas 1 pai;
+    Arvores vazias são representadas por "<>";
+    Árvores não vazias sao representadas por "<raiz sae sad>"; 
+
+.Como percorrer?
+    Não é possivel utilizar while, por não saber para qual nó é o proximo;
+Deve-se utilizar a recursividade
