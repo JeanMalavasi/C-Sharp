@@ -1,0 +1,15 @@
+Guia de como rodar:
+
+1 - Será necessario alterar o caminho de criação e leitura do arquivo.
+    Classe: CicularList;
+    Linhas: 51;
+            59;
+            126;
+
+Funções:
+
+Menu 1 - Adicionar: Adiciona um uma pessoa a agenda.
+Menu 2 - Listar: Não Soube como fazer a ordenação utilziando a lista circular duplamente encadeada, me embolei todo.
+Menu 3 - Navegar: Navega entre toda sua agenda, utilizando direcionais para cima e para baixo,
+                  caso deseje deletar: precionar DEL, caso queria atualizar: precionar INS.
+Menu 4 - Sair: Realiza a persistencia dos dados no arquivo e encerra o programa.
