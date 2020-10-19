@@ -1,0 +1,13 @@
+D:\Alura\C#\Herança e interface\bin\Debug\netcoreapp3.1\Herança e interface.exe
+D:\Alura\C#\Herança e interface\bin\Debug\netcoreapp3.1\Herança e interface.deps.json
+D:\Alura\C#\Herança e interface\bin\Debug\netcoreapp3.1\Herança e interface.runtimeconfig.json
+D:\Alura\C#\Herança e interface\bin\Debug\netcoreapp3.1\Herança e interface.runtimeconfig.dev.json
+D:\Alura\C#\Herança e interface\bin\Debug\netcoreapp3.1\Herança e interface.dll
+D:\Alura\C#\Herança e interface\bin\Debug\netcoreapp3.1\Herança e interface.pdb
+D:\Alura\C#\Herança e interface\obj\Debug\netcoreapp3.1\Herança e interface.csprojAssemblyReference.cache
+D:\Alura\C#\Herança e interface\obj\Debug\netcoreapp3.1\Herança e interface.AssemblyInfoInputs.cache
+D:\Alura\C#\Herança e interface\obj\Debug\netcoreapp3.1\Herança e interface.AssemblyInfo.cs
+D:\Alura\C#\Herança e interface\obj\Debug\netcoreapp3.1\Herança e interface.csproj.CoreCompileInputs.cache
+D:\Alura\C#\Herança e interface\obj\Debug\netcoreapp3.1\Herança e interface.dll
+D:\Alura\C#\Herança e interface\obj\Debug\netcoreapp3.1\Herança e interface.pdb
+D:\Alura\C#\Herança e interface\obj\Debug\netcoreapp3.1\Herança e interface.genruntimeconfig.cache

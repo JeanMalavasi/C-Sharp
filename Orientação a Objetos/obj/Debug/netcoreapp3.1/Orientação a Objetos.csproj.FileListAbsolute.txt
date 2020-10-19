@@ -1,0 +1,13 @@
+D:\Alura\C#\Orientação a Objetos\bin\Debug\netcoreapp3.1\Orientação a Objetos.exe
+D:\Alura\C#\Orientação a Objetos\bin\Debug\netcoreapp3.1\Orientação a Objetos.deps.json
+D:\Alura\C#\Orientação a Objetos\bin\Debug\netcoreapp3.1\Orientação a Objetos.runtimeconfig.json
+D:\Alura\C#\Orientação a Objetos\bin\Debug\netcoreapp3.1\Orientação a Objetos.runtimeconfig.dev.json
+D:\Alura\C#\Orientação a Objetos\bin\Debug\netcoreapp3.1\Orientação a Objetos.dll
+D:\Alura\C#\Orientação a Objetos\bin\Debug\netcoreapp3.1\Orientação a Objetos.pdb
+D:\Alura\C#\Orientação a Objetos\obj\Debug\netcoreapp3.1\Orientação a Objetos.csprojAssemblyReference.cache
+D:\Alura\C#\Orientação a Objetos\obj\Debug\netcoreapp3.1\Orientação a Objetos.AssemblyInfoInputs.cache
+D:\Alura\C#\Orientação a Objetos\obj\Debug\netcoreapp3.1\Orientação a Objetos.AssemblyInfo.cs
+D:\Alura\C#\Orientação a Objetos\obj\Debug\netcoreapp3.1\Orientação a Objetos.csproj.CoreCompileInputs.cache
+D:\Alura\C#\Orientação a Objetos\obj\Debug\netcoreapp3.1\Orientação a Objetos.dll
+D:\Alura\C#\Orientação a Objetos\obj\Debug\netcoreapp3.1\Orientação a Objetos.pdb
+D:\Alura\C#\Orientação a Objetos\obj\Debug\netcoreapp3.1\Orientação a Objetos.genruntimeconfig.cache
